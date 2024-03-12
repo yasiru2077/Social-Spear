@@ -46,3 +46,7 @@ Share your research findings, practical solutions, and insights! This repository
 * Improve Preprocessing:  system more robust by handling noise, blur, and lighting variation. Add user feedback on image quality.
 * Focus on Early Detection: Target early disease symptoms in  dataset, explore sensitive feature extraction techniques, and consider a hybrid approach for flagging potential issues early.
 
+## Key Challenges Farmers Face when dealing with Diseases in Pomegranate
+* Lack of Knowledge in Identification, Prevention, Treatment on pomegranate diseases.
+* Limited Access to Resources like Diagnostic Tools, Expert Support, Treatment Products.
+
