@@ -28,19 +28,21 @@ Share your research findings, practical solutions, and insights! This repository
 
 ## 🌟 About This Project 
 
-This README is a starting point for exploring pomegranate farming gaps and solutions. Help us expand it by contributing! 
+# Pomegranate Disease Detection Using Image Processing
 
 
 ## Gaps
 
 * Limited Dataset: Performance could be improved with a larger, more diverse dataset of pomegranate images with various diseases, regions, and lighting conditions.
-* Single Disease Focus: The system might only detect one disease. Expanding the scope to identify multiple diseases is needed for broader usefulness.
+* Single Disease Focus: The most systems only detect one disease. Expanding the scope to identify multiple diseases is needed for broader usefulness.
 * Image Quality Sensitivity: Input images from farmers may be inconsistent in quality, affecting model performance.
 * Early Detection Challenges: The model might struggle with subtle early symptoms of diseases.
+* Specific Disease Focus: A paper might be exceptionally good at detecting one or two diseases
+ 
 ## Potential Solutions
 
-* Gather More Data: Collect more images, focus on disease stages, and consider data augmentation or collaborations to expand your dataset.
+* Gather More Data: Collect more images, focus on disease stages, and consider data augmentation or collaborations to expand dataset.
 * Detect Multiple Diseases: Expand research to cover more pomegranate diseases, potentially using specialized classifiers.
-* Improve Preprocessing: Make your system more robust by handling noise, blur, and lighting variation. Add user feedback on image quality.
-* Focus on Early Detection: Target early disease symptoms in your dataset, explore sensitive feature extraction techniques, and consider a hybrid approach for flagging potential issues early.
+* Improve Preprocessing:  system more robust by handling noise, blur, and lighting variation. Add user feedback on image quality.
+* Focus on Early Detection: Target early disease symptoms in  dataset, explore sensitive feature extraction techniques, and consider a hybrid approach for flagging potential issues early.
 
