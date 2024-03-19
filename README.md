@@ -50,3 +50,8 @@ Share your research findings, practical solutions, and insights! This repository
 * Lack of Knowledge in Identification, Prevention, Treatment on pomegranate diseases.
 * Limited Access to Resources like Diagnostic Tools, Expert Support, Treatment Products.
 
+## model deployment
+## figma design
+## draw.io
+
+
