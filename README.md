@@ -53,5 +53,6 @@ Share your research findings, practical solutions, and insights! This repository
 ## model deployment
 ## figma design
 ## draw.io
-
+* https://www.youtube.com/watch?v=L-Tqf1w5d0I
+  
 
